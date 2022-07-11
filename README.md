@@ -1,5 +1,6 @@
 # merge-sort-proje-patika.dev
 www.patika.dev
+patika.dev profil linki : https://app.patika.dev/ataguneser
 
   [16,21,11,8,12,22] -> Merge Sort
     
